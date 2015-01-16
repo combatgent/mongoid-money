@@ -9,5 +9,3 @@ module Mongoid
     extend Configuration
   end
 end
-
-require 'mongoid/money/money'
