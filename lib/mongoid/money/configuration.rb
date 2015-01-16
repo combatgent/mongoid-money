@@ -13,7 +13,6 @@ module Configuration
   #   end
   def configure
     yield self
-    require 'mongoid/money/money'
   end
 
   # Configuration parameters
