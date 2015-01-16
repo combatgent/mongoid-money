@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Mongoid::Money::VERSION
   spec.authors       = ['Scott Raio']
   spec.email         = ['scottraio@gmail.com']
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = 'Money support for mongoid'
+  spec.description   = 'Money support for mongoid'
+  spec.homepage      = ''
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
